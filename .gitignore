@@ -1,0 +1,11 @@
+# Testing files
+tests/
+test.ipynb
+
+# Cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# OSX
+.DS_Store
